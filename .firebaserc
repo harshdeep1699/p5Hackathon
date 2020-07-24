@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "villageecommercesite",
+    "villageecommercesite": "villageecommercesiteapp",
+    "development": "villageecommercesite",
+    "production": "villageecommercesite",
+    "tt": "villageecommercesite",
+    "staging": "villageecommercesite"
+  }
+}
