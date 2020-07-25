@@ -28,8 +28,8 @@ A Shopping Website build with Angular 4 and Firebase.
 
 
 ```
-    > git clone https://github.com/ritwickdey/organic-shop.git
-    > cd organic-shop/
+    > git clone https://github.com/harshdeep1699/p5Hackathon.git
+    > cd p5Hackathon/
     > npm install
     > npm start -- --host 127.0.0.1
 
