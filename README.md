@@ -1,11 +1,11 @@
-# Organic shop
+# P5 Hackathon project
 
 A Shopping Website build with Angular 4 and Firebase.
 
 
 ## Demo Link :
 
-- Live Demo: https://chokkanahalli.firebaseapp.com/ 
+- Live Demo: https://p5hackathon.firebaseapp.com/
 
 
 ## Features
@@ -25,7 +25,7 @@ A Shopping Website build with Angular 4 and Firebase.
 
 
 ## To run the project locally:
-> To use your own Firebase Database change the api key from [`firebase-key`](./src/private/firebase-key.ts)
+
 
 ```
     > git clone https://github.com/ritwickdey/organic-shop.git
@@ -37,8 +37,6 @@ A Shopping Website build with Angular 4 and Firebase.
 
 ----------
 
-
-> *[The project is from an awesome [Angular 4 course](https://www.udemy.com/the-complete-angular-master-class/) (BY [MOSH HAMEDANI](https://github.com/mosh-hamedani)) which I've taken from Udemy.]*
 
 
 
