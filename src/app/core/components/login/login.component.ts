@@ -18,8 +18,8 @@ export class LoginComponent implements OnInit {
     this.authService.login(new firebase.auth.GoogleAuthProvider());
   }
 
-  loginFacebook() {
-    this.authService.login(new firebase.auth.FacebookAuthProvider());
-  }
+  // loginFacebook() {
+  //   this.authService.login(new firebase.auth.FacebookAuthProvider());
+  // }
 
 }

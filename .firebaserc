@@ -1,10 +1,11 @@
 {
   "projects": {
-    "default": "villageecommercesite",
-    "villageecommercesite": "villageecommercesiteapp",
-    "development": "villageecommercesite",
-    "production": "villageecommercesite",
-    "tt": "villageecommercesite",
-    "staging": "villageecommercesite"
+    "default": "p5hackathon",
+    "villageecommercesite": "p5Hackathonapp",
+    "development": "p5Hackathon",
+    "production": "p5Hackathon",
+    "tt": "p5Hackathon",
+    "staging": "p5Hackathon",
+    "newproj": "p4hackathon"
   }
 }

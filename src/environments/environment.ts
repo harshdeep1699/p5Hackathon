@@ -8,14 +8,13 @@ import { fireBaseKey } from 'private/firebase-key';
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyBZL_GMrl6kiOprN563KaiaCVVOAiQF0QQ",
-  authDomain: "villageecommercesite.firebaseapp.com",
-  databaseURL: "https://villageecommercesite.firebaseio.com",
-  projectId: "villageecommercesite",
-  storageBucket: "villageecommercesite.appspot.com",
-  messagingSenderId: "822406741666",
-  appId: "1:822406741666:web:d987f0b46d54d6d707e1fb",
-  measurementId: "G-QHQZC31BBC"
+    apiKey: "AIzaSyDpfRcYz4PngxkVsmcaQDvta_pPQsx_npc",
+    authDomain: "p5hackathon.firebaseapp.com",
+    databaseURL: "https://p5hackathon.firebaseio.com",
+    projectId: "p5hackathon",
+    storageBucket: "p5hackathon.appspot.com",
+    messagingSenderId: "288070909006",
+    appId: "1:288070909006:web:e2c23267932db7a5d7971f"
   }
 
 };
